@@ -9,7 +9,7 @@ const Header = (props) => (
         <div className="content">
             <div className="inner">
                 <h1>Jared Short</h1>
-                <p>Cloud Computing, Champion of Serverless Technology, Entrepreneur<p>
+                <p>Cloud Computing, Champion of Serverless Technology, Entrepreneur</p>
                 <p>Head of Developer Relations and Experience at <a href="https://serverless.com" target="_blank">Serverless.com</a>, previously Director of Innovation at <a href="https://trek10.com" target="_blank">Trek10, Inc.</a></p>
             </div>
         </div>
